@@ -5,7 +5,7 @@ client_id = '805415115938594817'#------------------| Application Client ID
 RPC = Presence(client_id)
 RPC.connect()
 
-print("Lets go!", "test")
+print("Lets go!")
 
 komutlar = ["State", "Details", "Large Text", "Small Text", "Party Size", "Button1", "Button2"]
 
