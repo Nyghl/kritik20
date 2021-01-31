@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True , icon='D:\\Python Projeleri\\kritik20\\kritik20.ico')
+          console=True , icon='kritik20.ico')
